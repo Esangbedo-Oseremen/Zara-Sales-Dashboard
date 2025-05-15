@@ -4,6 +4,9 @@
 
 This data analysis project aims to provide clear knoweledge about the sales performance of a fashion retail brand. By analyzing different aspect of the sales data, We aim to identify which products, promotion status, seasonality, and sections that generate the most sales and how much is incurred on production.
 
+![image alt](https://github.com/Esangbedo-Oseremen/Zara-Sales-Dashboard/blob/4ec84ed636cd964aa81dd8a0f07d7d3315120541/Zara%20Dashboard.png)
+
+
 ### Data Sources
 
 Zara Data: The primary dataset used for this analysis is the "zara_data.csv" file, containing detailed information about each sale made by the retail store.

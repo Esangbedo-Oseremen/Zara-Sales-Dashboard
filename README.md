@@ -57,10 +57,10 @@ EDA involved exploring the zara data to answer key questions, such as
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- Focus more on jackets, avoid stockouts and add trendy designs.
-- Since most sales happened without promotions,use promos only for slow selling items.
-- Invest more in the men's section, make research and add products that could appeal to male customers. 
-- Increase marketing efforts for seasonal products during peak periods to take advantage of their higher sales potential.
+- Focus more on jackets, avoid stockouts and add trendy designs
+- Since most sales happened without promotions,use promos only for slow selling items
+- Invest more in the men's section, make research and add products that could appeal to male customers
+- Increase marketing efforts for seasonal products during peak periods to take advantage of their higher sales potential
 
 ### Limitations
 
